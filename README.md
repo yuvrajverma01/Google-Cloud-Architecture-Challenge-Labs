@@ -43,7 +43,7 @@ You will receive another form in the **last week of October** for you to confirm
 <h3> Hey! I'm Yuvraj. ✌️</h3>
 
 <a href="mailto:vermay87gmail.com">
-  <img align="left" alt="Yuvraj's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_email-512.png" />
+  <img align="left" alt="Yuvraj's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_unread_email-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/yuvrajverma01/">
   <img align="left" alt="Yuvraj's LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_linkedin-512.png" />

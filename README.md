@@ -2,7 +2,7 @@
 
 This repository contains the some important information related to **30 Days of Google Cloud** program as well as some of the solutions to the **Challenge Labs**! Being highly interested in cloud, this repo will further increase immensily including Study Material, Sample Case Studies, Practice Exam and Possible Exam Scenario's.
 
-![](https://github.com/yuvrajverma01/Google-Cloud-Architecture-Challenge-Labs/raw/master/media/banner.png)
+![](/media/banner.png)
 
 ## Program Syllabus
 
@@ -23,7 +23,7 @@ This repository contains the some important information related to **30 Days of 
   - [Integrate with Machine Learning APIs](https://google.qwiklabs.com/quests/136?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
   - [Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
-![](https://github.com/yuvrajverma01/Google-Cloud-Architecture-Challenge-Labs/raw/master/media/skills.png)
+![](/media/skills.png)
 
 ## Resources
 
@@ -42,7 +42,7 @@ You will receive another form in the **last week of October** for you to confirm
 
 > For more information refer [here](https://events.withgoogle.com/30daysofgooglecloud/prize-rules/#content).
 
-![](https://github.com/yuvrajverma01/Google-Cloud-Architecture-Challenge-Labs/raw/master/media/swags.png)
+![](/media/swags.png)
 
 ## Contact
 

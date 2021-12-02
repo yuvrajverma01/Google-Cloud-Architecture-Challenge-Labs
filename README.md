@@ -12,7 +12,7 @@
 
 This repository contains the some important information related to 30 Days of Google Cloud program as well as some of the solutions to the Challenge Labs! Being highly interested in cloud, this repo will further increase immensily including Study Material, Sample Case Studies, Practice Exam and Possible Exam Scenario's.
 
-## 🤷🏼‍♂️Program Syllabus
+## 🤷🏼‍♂️ Program Syllabus
 
 - Track 1: Cloud Engineering Track
 
